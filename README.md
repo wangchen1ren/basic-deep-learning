@@ -1,1 +1,1 @@
-# basic-deep-learning
+# Basic Deep Learning
